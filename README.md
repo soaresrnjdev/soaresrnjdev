@@ -35,7 +35,10 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-
+<div align="center">
+        <img alt="Contador de Visitas" 
+            src="https://widgetbite.com/stats/<soaresrnjdev>"/>  
+    </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BBC5FA&height=120&section=footer"/>
